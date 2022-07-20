@@ -8,6 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&center=true&vCenter=true&width=380&lines=Full+Stack+Developer"/>
 </p>
 
+* I am a Computer Science and Engineering undergraduate from IIT Bhubaneswar.
+* I am a full stack developer.
+* Websites developed and deployed by me :-
+  * [weather](https://weather-all.herokuapp.com/)
+  * [task manager](https://top-task-manager.herokuapp.com/)
+  * [mole game](https://kdushyanth.github.io/mole-game/)
+  * [aquaculture technology](https://aquaculture-svrm.herokuapp.com/materials)
+* I also explored machine learning and deep learning. 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kurra-dushyanth/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,6 +34,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+
+![](https://komarev.com/ghpvc/?username=kDushyanth&style=for-the-badge)
+
 
 <!--
 **kDushyanth/kDushyanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
