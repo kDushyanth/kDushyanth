@@ -3,7 +3,7 @@
 <p align="center">
   <h1 align="center">Hi there 👋 I'm Dushyanth</h1>
 </p>
-<hr>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&center=true&vCenter=true&width=380&lines=Full+Stack+Developer"/>
 </p>
