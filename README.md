@@ -17,6 +17,8 @@
   * [aquaculture technology](https://aquaculture-svrm.herokuapp.com/materials)
 * I also explored machine learning and deep learning. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kDushyanth&exclude_repo=SPIN-model-checker,compiler-design&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kurra-dushyanth/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
